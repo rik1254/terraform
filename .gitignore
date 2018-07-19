@@ -1,0 +1,5 @@
+*.pem
+*.csv
+private_vars.tf
+.terraform
+*.tfstate*
